@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">personalMessage</string>
+    <string name="name">姓名</string>
+    <string name="phone">电话</string>
+    <string name="email">电子邮件</string>
+    <string name="input_name">请输入姓名</string>
+    <string name="input_phone">请输入电话</string>
+    <string name="input_email">请输入电子邮件</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="dance">跳舞</string>
+    <string name="sing">唱歌</string>
+    <string name="read">阅读</string>
+</resources>

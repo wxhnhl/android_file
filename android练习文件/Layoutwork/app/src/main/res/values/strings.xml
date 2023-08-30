@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Layoutwork</string>
+    <string name="number">学号</string>
+    <string name="password">密码</string>
+    <string name="input_number">请输入学号</string>
+    <string name="input_password">请输入密码</string>
+    <string name="login">登录</string>
+
+    <string name="to">收信人</string>
+    <string name="message">Message</string>
+    <string name="send">发送</string>
+
+    <string name="To">To</string>
+    <string name="address">Enter email address</string>
+</resources>

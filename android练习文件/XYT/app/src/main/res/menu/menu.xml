@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/gjx"
+        android:title="工具箱" />
+    <item
+        android:icon="@drawable/kjscx"
+        android:title="空教师查询" />
+    <item
+        android:icon="@drawable/wo"
+        android:title="我" />
+</menu>

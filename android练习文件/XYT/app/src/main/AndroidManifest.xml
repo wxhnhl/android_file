@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.xyt">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".wodezuowei"></activity>
+        <activity android:name=".xinyongjjifen" />
+        <activity android:name=".shimingrenzheng" />
+        <activity android:name=".myAntivity" />
+        <activity android:name=".SendMessageActivity" />
+        <activity android:name=".SendMailActivity" />
+
+        <service
+            android:name=".OdometerService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity android:name=".BindServiceActivity" />
+
+        <service
+            android:name=".DelayedMessageService"
+            android:exported="false" />
+
+        <activity android:name=".StartServiceActivity" />
+        <activity android:name=".StopWatchActivity" />
+        <activity android:name=".CommentReceiveActivity" />
+        <activity android:name=".CommentSendActivity" />
+        <activity android:name=".SearchClassroomActivity" />
+        <activity android:name=".DrinkCategoryActivity" />
+        <activity android:name=".DrinkActivity" />
+        <activity android:name=".IndexActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

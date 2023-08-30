@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yonghui</string>
+    <string name="question">What is th secret of comedy?</string>
+    <string name="response">Timing</string>
+</resources>

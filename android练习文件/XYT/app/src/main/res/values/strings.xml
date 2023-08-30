@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">校园通</string>
+    <string name="number">学号</string>
+    <string name="password">密码</string>
+    <string name="input_number">请输入手机号/邮箱账号</string>
+    <string name="input_password">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="enter">加入自习通</string>
+    <string name="name">姓名</string>
+    <string name="phone">电话</string>
+    <string name="email">电子邮件</string>
+    <string name="input_name">请输入姓名</string>
+    <string name="input_phone">请输入电话</string>
+    <string name="input_email">请输入电子邮件</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="dance">跳舞</string>
+    <string name="sing">唱歌</string>
+    <string name="read">阅读</string>
+
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string-array name="options">
+        <item>最近预约</item>
+        <item>一周学习</item>
+        <item>总学习</item>
+    </string-array>
+    <string name="favorite">取消预约</string>
+    <string name="favorites">你的自习时长为:</string>
+    <string name="find_language">查询空教室</string>
+    <string name="language">输入搜索条件进行查询</string>
+    <string-array name="feature">
+        <item>工学馆</item>
+        <item>图书馆</item>
+        <item>南校区</item>
+        <item>人文楼</item>
+    </string-array>
+
+    <string name="send">提交反馈</string>
+    <string name="send1">其他方面的反馈</string>
+    <string name="hint">Enter the Message</string>
+    <string name="choser">choose one app to send </string>
+
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="question">你还未完成今日的签到</string>
+    <string name="response">Timing</string>
+
+    <string name="To">To</string>
+    <string name="address">Enter email address</string>
+
+    <string name="to">收信人</string>
+    <string name="message">Message</string>
+
+</resources>
